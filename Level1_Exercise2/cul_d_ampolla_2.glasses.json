@@ -1,0 +1,108 @@
+[{
+  "_id": {
+    "$oid": "69c1ab88bfd0da94af391782"
+  },
+  "brand": "RayBan",
+  "left_graduation": 1.6,
+  "right_graduation": 1.5,
+  "frame_type": "paste",
+  "frame_color": "black",
+  "lens_color": "yellow",
+  "price": 120,
+  "sales": [
+    {
+      "date": null,
+      "client": {
+        "_id": {
+          "$oid": "69c1aaecbfd0da94af39177d"
+        },
+        "name": null,
+        "email": null,
+        "telephone": null
+      },
+      "employee": {
+        "_id": {
+          "$oid": "69c1a955bfd0da94af391766"
+        },
+        "name": null,
+        "role": null
+      },
+      "price": null,
+      "quantity": null
+    }
+  ],
+  "providers": [
+    {
+      "_id": {
+        "$oid": "69c190e8ac3b0d6feac5c92c"
+      },
+      "name": null,
+      "telephone": null,
+      "fax": null,
+      "nif": null,
+      "address": {
+        "street": null,
+        "number": null,
+        "postal_code": null,
+        "door": null,
+        "floor": null,
+        "city": null,
+        "country": null
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69c1aba2bfd0da94af391783"
+  },
+  "brand": "Oakley",
+  "left_graduation": 2,
+  "right_graduation": 1.8,
+  "frame_type": "metal",
+  "frame_color": "blue",
+  "lens_color": "clear",
+  "price": 150,
+  "sales": [
+    {
+      "date": null,
+      "client": {
+        "_id": {
+          "$oid": "69c1ab3bbfd0da94af39177e"
+        },
+        "name": null,
+        "email": null,
+        "telephone": null
+      },
+      "employee": {
+        "_id": {
+          "$oid": "69c1a995bfd0da94af391767"
+        },
+        "name": null,
+        "role": null
+      },
+      "price": null,
+      "quantity": null
+    }
+  ],
+  "providers": [
+    {
+      "_id": {
+        "$oid": "69c190f0ac3b0d6feac5c92d"
+      },
+      "name": null,
+      "telephone": null,
+      "fax": null,
+      "nif": null,
+      "address": {
+        "street": null,
+        "number": null,
+        "postal_code": null,
+        "door": null,
+        "floor": null,
+        "city": null,
+        "country": null
+      }
+    }
+  ]
+}]

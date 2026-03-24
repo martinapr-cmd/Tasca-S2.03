@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "69c1a955bfd0da94af391766"
+  },
+  "name": "Old Man Jenkins",
+  "phone": 600333444,
+  "email": "oldmanjenkins@gmail.com",
+  "hire_date": {
+    "$date": "2020-01-15T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c1a995bfd0da94af391767"
+  },
+  "name": "Tom",
+  "phone": 600555666,
+  "email": "tomchocolate@gmail.com",
+  "hire_date": {
+    "$date": "2021-07-08T00:00:00.000Z"
+  }
+}]

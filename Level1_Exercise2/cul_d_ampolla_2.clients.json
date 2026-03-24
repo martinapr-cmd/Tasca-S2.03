@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "69c1aaecbfd0da94af39177d"
+  },
+  "name": "SpongeBob SquarePants",
+  "postal_adress": {
+    "street": "124 Conch Street",
+    "city": "Bikini Bottom",
+    "postal_code": "BB100"
+  },
+  "phone": 612333444,
+  "email": "bobpants@gmail.com",
+  "registration_date": {
+    "$date": "2025-01-06T00:00:00.000Z"
+  },
+  "recommended_by": null
+},
+{
+  "_id": {
+    "$oid": "69c1ab3bbfd0da94af39177e"
+  },
+  "name": "Patrick Star",
+  "postal_adress": {
+    "street": "120 Conch Street",
+    "city": "Bikini Bottom",
+    "postal_code": "BB100"
+  },
+  "phone": 613444888,
+  "email": "underarock@gmail.com",
+  "registration_date": {
+    "$date": "1970-01-01T00:00:02.001Z"
+  },
+  "recommended_by": {
+    "$oid": "69bbe43b1be317276011402a"
+  }
+}]
