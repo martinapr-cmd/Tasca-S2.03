@@ -1,0 +1,85 @@
+[{
+  "_id": {
+    "$oid": "69bbe43b1be317276011402a"
+  },
+  "name": "SpongeBob SquarePants",
+  "postal_adress": {
+    "street": "124 Conch Street",
+    "city": "Bikini Bottom",
+    "postal_code": "BB100"
+  },
+  "phone": 612333444,
+  "email": "bobpants@gmail.com",
+  "registration_date": {
+    "$date": "2025-01-06T00:00:00.000Z"
+  },
+  "sales": [
+    {
+      "date": {
+        "$date": "2025-02-10T00:00:00.000Z"
+      },
+      "employee_id": {
+        "$oid": "69c19020ac3b0d6feac5c92a"
+      },
+      "glasses": {
+        "_id": {
+          "$oid": "69bbebb11be317276011402c"
+        },
+        "brand": "RayBan",
+        "left_graduation": 1.6,
+        "right_graduation": 1.5,
+        "frame_type": "paste",
+        "frame_color": "black",
+        "lens_color": "yellow",
+        "price": 120
+      },
+      "quantity": 1
+    }
+  ],
+  "recommended_by": null
+},
+{
+  "_id": {
+    "$oid": "69bbe9ee1be317276011402b"
+  },
+  "name": "Patrick Star",
+  "postal_adress": {
+    "street": "120 Conch Street",
+    "city": "Bikini Bottom",
+    "postal_code": "BB100"
+  },
+  "phone": 613444888,
+  "email": "underarock@gmail.com",
+  "registration_date": {
+    "$date": "1970-01-01T00:00:02.001Z"
+  },
+  "sales": [
+    {
+      "date": {
+        "$date": "2025-03-01T00:00:00.000Z"
+      },
+      "employee_id": {
+        "$oid": "69c19055ac3b0d6feac5c92b"
+      },
+      "glasses": {
+        "_id": {
+          "$oid": "69c18f94ac3b0d6feac5c928"
+        },
+        "brand": "Oakley",
+        "left_graduation": 2,
+        "right_graduation": 1.8,
+        "frame_type": "metal",
+        "frame_color": "blue",
+        "lens_color": "clear",
+        "price": 150,
+        "provider": {
+          "$oid": "69c190f0ac3b0d6feac5c92d"
+        }
+      },
+      "quantity": 1
+    }
+  ],
+  "recommended_by": {
+    "$oid": "69bbe43b1be317276011402a"
+  }
+}]

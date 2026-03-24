@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "69c190e8ac3b0d6feac5c92c"
+  },
+  "name": "Goo Lagoon Optics",
+  "address": {
+    "street": "Lagoon Road",
+    "number": 12,
+    "city": "Bikini Bottom",
+    "postal_code": "BB102",
+    "country": "Pacific Ocean"
+  },
+  "phone": 600111000,
+  "fax": null,
+  "nif": "14561876R"
+},
+{
+  "_id": {
+    "$oid": "69c190f0ac3b0d6feac5c92d"
+  },
+  "name": "JellyFish Eyeworks",
+  "address": {
+    "street": "Conch Street",
+    "number": 124,
+    "city": "Bikini Bottom",
+    "postal_code": "BB100",
+    "country": "Pacific Ocean"
+  },
+  "phone": 600222000,
+  "fax": null,
+  "nif": "98714567T"
+}]

@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "69bbebb11be317276011402c"
+  },
+  "brand": "RayBan",
+  "left_graduation": 1.6,
+  "right_graduation": 1.5,
+  "frame_type": "paste",
+  "frame_color": "black",
+  "lens_color": "yellow",
+  "price": 120,
+  "provider": {
+    "$oid": "69c190e8ac3b0d6feac5c92c"
+  }
+},
+{
+  "_id": {
+    "$oid": "69c18f94ac3b0d6feac5c928"
+  },
+  "brand": "Oakley",
+  "left_graduation": 2,
+  "right_graduation": 1.8,
+  "frame_type": "metal",
+  "frame_color": "blue",
+  "lens_color": "clear",
+  "price": 150,
+  "provider": {
+    "$oid": "69c190f0ac3b0d6feac5c92d"
+  }
+}]
