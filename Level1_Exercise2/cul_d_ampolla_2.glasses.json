@@ -1,0 +1,56 @@
+[{
+  "_id": {
+    "$oid": "69cd0b7f724ef8643701bbcd"
+  },
+  "brand": "RayBan",
+  "frame_type": "paste",
+  "frame_color": "black",
+  "lens_color": "yellow",
+  "price": 120,
+  "provider": {
+    "_id": {
+      "$oid": "69c190e8ac3b0d6feac5c92c"
+    },
+    "name": null,
+    "telephone": null,
+    "fax": null,
+    "nif": null,
+    "address": {
+      "street": null,
+      "number": null,
+      "postal_code": null,
+      "door": null,
+      "floor": null,
+      "city": null,
+      "country": null
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "69cd0ba3724ef8643701bbce"
+  },
+  "brand": "Oakley",
+  "frame_type": "metal",
+  "frame_color": "blue",
+  "lens_color": "clear",
+  "price": 150,
+  "provider": {
+    "_id": {
+      "$oid": "69c190f0ac3b0d6feac5c92d"
+    },
+    "name": null,
+    "telephone": null,
+    "fax": null,
+    "nif": null,
+    "address": {
+      "street": null,
+      "number": null,
+      "postal_code": null,
+      "door": null,
+      "floor": null,
+      "city": null,
+      "country": null
+    }
+  }
+}]

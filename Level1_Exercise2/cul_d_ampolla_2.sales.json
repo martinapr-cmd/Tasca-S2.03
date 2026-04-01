@@ -1,0 +1,42 @@
+[{
+  "_id": {
+    "$oid": "69cd0b296b6b2ff4b563798c"
+  },
+  "date": {
+    "$date": "2025-01-06T00:00:00.000Z"
+  },
+  "client": {
+    "$oid": "69c1aaecbfd0da94af39177d"
+  },
+  "employee": {
+    "$oid": "69c1a955bfd0da94af391766"
+  },
+  "glasses": {
+    "$oid": "69c1ab88bfd0da94af391782"
+  },
+  "left_graduation": 1.6,
+  "right_graduation": 1.5,
+  "quantity": 1,
+  "price": 120
+},
+{
+  "_id": {
+    "$oid": "69cd0b366b6b2ff4b563798d"
+  },
+  "date": {
+    "$date": "2025-01-10T00:00:00.000Z"
+  },
+  "client": {
+    "$oid": "69c1ab3bbfd0da94af39177e"
+  },
+  "employee": {
+    "$oid": "69c1a995bfd0da94af391767"
+  },
+  "glasses": {
+    "$oid": "69c1aba2bfd0da94af391783"
+  },
+  "left_graduation": 2,
+  "right_graduation": 1.8,
+  "quantity": 1,
+  "price": 150
+}]
